@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    background-color: red;
+  color: blue;
+  margin-left:0px;
+}
+
+h2{ 
+    background-color: blue; 
+    color: red;
+    margin-left:0px;
+}
+
+p {
+    text-align: center;
+    color: red;
+}
